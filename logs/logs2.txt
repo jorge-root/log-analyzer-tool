@@ -1,5 +1,0 @@
-INFO: user login
-Error: data base connection failed
-warning: CPU Temperture high
-INFO: Backup completed
-Error: network unreachable

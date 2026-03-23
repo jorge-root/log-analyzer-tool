@@ -1,0 +1,6 @@
+INFO: System started
+WARNING: Low memory
+ERROR: Connection lost
+INFO: Task completed
+ERROR: Disk full
+WARNING: High CPU usage
